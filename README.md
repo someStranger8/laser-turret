@@ -1,7 +1,10 @@
 # laser-turret
 
+michael reeves laser turret
+
 ## hardware
 
+amaxon link:  http://astore.amazon.com/mtrees-20
 - 2x MG996R servos
 - 3X 5v power supplies
 - 5 mW laser diodes
